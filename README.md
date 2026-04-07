@@ -57,31 +57,27 @@ PS3/
 
 ## 3. Instalación de RPCS3
 
-1. Descargar RPCS3
+1. Click derecho sobre el archivo descargado
 
-2. Copiar la descarga a la carpeta PS3 creada anteriormente
-
-2. Click derecho sobre el archivo descargado
-
-3. Seleccionar **"Extraer todo"** (Windows 10 / 11)
+2. Seleccionar **"Extraer todo"** (Windows 10 / 11)
 
    ![Extraer todo](<images/Extraer todo Windows 11.png>)
 
-4. Eliminar el archivo comprimido
+3. Eliminar el archivo comprimido
 
-5. Renombrar la carpeta a:
+4. Renombrar la carpeta a:
 
 ```
 RPCS3
 ```
 
-6. Entrar en la carpeta y ejecutar:
+5. Entrar en la carpeta y ejecutar:
 
 ```
 rpcs3.exe
 ```
 
-7. En la primera pantalla:
+6. En la pantalla bienvenida de RPCS3:
 
    * Desmarcar **"Show at startup"** (opcional)
    * Marcar **"I have read the Quickstart guide"** (requerido)
@@ -205,11 +201,11 @@ Guardar cambios con:
 
 ---
 
-## 7. Primer inicio
+## 7. Primer inicio del juego
 
 1. Abrir el juego
 
-2. Aceptar descarga de datos adicionales (**Yes**)
+2. Aceptar descarga de datos adicionales con (**Yes**)
 
    ![RPCS3 screenshot](<images/Tekken 5 onboarding.png>)
 
@@ -217,7 +213,7 @@ Guardar cambios con:
 
    * `Alt + F4` o cerrar ventana
 
-4. Volver a abrir el juego
+Al abrir el juego nuevamente, no será más necesario descargar esos datos y el juego avanzará normalmente hasta el menú principal. Desde aquí ya pueden modificar los botones a su gusto en Settings o iniciar el online en Online Battle.
 
 ---
 
