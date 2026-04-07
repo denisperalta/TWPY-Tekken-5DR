@@ -141,7 +141,7 @@ rpcs3.exe
 
    ![RPCS3 Install game](<images/Configuring Game.png>)
 
-✅ Ya puedes jugar **offline**.
+✅ Ya puedes jugar **offline**. Continúa el guía para habilitar online.
 
 ---
 
