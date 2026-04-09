@@ -22,12 +22,10 @@ Este tutorial es únicamente para fines educativos. La descarga e instalación d
   - [6.1 Tekken 5 DR](#tekken-5-dr)
   - [6.2 Tekken 6](#tekken-6)
   - [6.3 Tekken Tag Tournament 2](#tekken-tag-tournament-2)
-- [7. Primer inicio](#7-primer-inicio)
-- [8. Recomendaciones](#8-recomendaciones)
 
 ---
 
-## 1. Requisitos
+## 1. Requisitos base
 
 Descargar los siguientes archivos:
 
@@ -41,9 +39,7 @@ Desde aquí, selecciona "Update using a computer", haz clic derecho en "Download
 
 ![PS3UPDAT.PUP](images/PS3UPDAT.png)
 
-- Tekken 5 DR → **https://romspure.cc/download/tekken-5-dark-resurrection-online-110121/5** 
-
-Espera unos segundos hasta que aparezca el botón amarillo "Download (590.92 M)" y descárgalo.
+- El juego en sí, en los pasos de cada juego en específico se encuentra el link de descarga.
 
 ---
 
@@ -57,7 +53,6 @@ La estructura final al descargar los archivos debe verse así:
 PS3/
 ├── RPCS3/
 ├── PS3UPDAT.PUP
-└── Tekken 5/
 ```
 
 ---
@@ -179,58 +174,57 @@ Guardar cambios con:
 
 ### 6.1 Tekken 5 DR
 
-1. En RPCS3, En el borde superior del emulador ir a:
+1. Tekken 5 DR → **https://drive.proton.me/urls/TACT6M3FYR#szwv6YH19THH** 
+
+Espera unos segundos hasta que aparezca el botón amarillo "Download (590.92 M)" y descárgalo.
+
+2. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
+
+   ```
+   PS3/
+   ├── RPCS3/
+   ├── PS3UPDAT.PUP
+   └── Tekken 5/
+   ```
+
+3. Extrae el archivo del juego:
+
+   * Haz clic derecho en el archivo del juego → **"Extraer todo"**
+
+4. Abre la carpeta extraída y verifica que contenga **2 archivos**:
+
+   * Archivo del juego
+   * Archivo de licencia
+
+5. En RPCS3, En el borde superior del emulador ir a:
 
    ```
    File > Install Packages
    ```
 
-2. Extrae el archivo del juego:
+6. Seleccionar ambos archivos dentro de la carpeta extraída y hacer click en **Abrir**
 
-   * Haz clic derecho en el archivo del juego → **"Extraer todo"**
-
-3. Abre la carpeta `PS3` y verifica que contenga **2 archivos**:
-
-   * Archivo del juego
-   * Archivo de licencia
-
-4. Seleccionar ambos archivos y hacer click en **Abrir**
-
-5. Dejamos todos los ajustes en predeterminado, Click en:
+7. Dejamos todos los ajustes en predeterminado, Click en:
 
    ```
    Install
    ```
 
-6. Esperar a que termine la instalación
+8. Esperar a que termine la instalación
 
-   ![RPCS3 Install game](<images/Configuring Game.png>)
+   ![RPCS3 Install game](<images/T5 Configuring Game.png>)
 
-7. Abre el juego
+9. Abre el juego
 
-8. Acepta la descarga de datos adicionales con (**Yes**)
+10. Acepta la descarga de datos adicionales con (**Yes**)
 
    ![RPCS3 screenshot](<images/Tekken 5 onboarding.png>)
 
-9. Reinicia el emulador una vez que termine la descarga (usa `Alt + F4` o cierra la ventana).
+11. Reinicia el emulador una vez que termine la descarga (usa `Alt + F4` o cierra la ventana).
 
 Al abrir el juego nuevamente, no será más necesario descargar esos datos y el juego avanzará normalmente hasta el menú principal. Desde aquí ya pueden modificar los botones a su gusto en Settings o iniciar el online en Online Battle.
 
-### 6.2 Tekken 6
-
-- Instrucciones específicas para instalar **Tekken 6**.
-- Añade aquí los detalles de descarga, extracción, instalación de paquetes y cualquier diferencia frente a Tekken 5 DR.
-
-### 6.3 Tekken Tag Tournament 2
-
-- Instrucciones específicas para instalar **Tekken Tag Tournament 2**.
-- Incluye información sobre paquetes, archivos de licencia y pasos especiales si los hay.
-
-> Completa cada subsección con los pasos detallados para el juego correspondiente.
-
----
-
-## 7. Recomendaciones
+✅ **Tekken 5 DR** instalado y listo para jugar online.
 
 ### ⚠️ Importante
 
@@ -245,6 +239,65 @@ En Online Battle usar únicamente:
 * Create Room
 * Custom Battle (Para buscar las salas)
 * Profile
+
+---
+
+### 6.2 Tekken 6
+
+1. Tekken 6 → **https://romspure.cc/download/tekken-6-2-18888-22595/5** 
+
+⚠️ *Cuidado con la descarga de archivos maliciosos, asegúrate que el archivo sea Tekken 6 y pese aproximadamente 12 GB* ⚠️ 
+
+>Espera unos segundos hasta que aparezca el botón amarillo "Download" y descárgalo.
+
+2. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
+
+   ```
+   PS3/
+   ├── RPCS3/
+   ├── PS3UPDAT.PUP
+   └── Tekken 6/
+   ```
+
+3. Extrae el archivo del juego:
+
+   * Haz clic derecho en el archivo del juego → **"Extraer todo"**
+
+4. Copiar el archivo .iso recién descargado adentro de la carpeta del emulador RPCS3, en la carpeta "games"
+
+5. Descargar la actualización del juego: **https://drive.proton.me/urls/TACT6M3FYR#szwv6YH19THH**
+
+6. Abre la carpeta extraída y verifica que contenga **1 archivo**:
+
+   * Archivo de la actualización
+
+7. En RPCS3, En el borde superior del emulador ir a:
+
+   ```
+   File > Install Packages
+   ```
+
+8. Seleccionar ambos archivos dentro de la carpeta extraída y hacer click en **Abrir**
+
+9. Dejamos todos los ajustes en predeterminado, Click en:
+
+   ```
+   Install
+   ```
+
+10. Esperar a que termine la instalación
+
+   ![RPCS3 Install game](<images/T6 Configuring Game.png>)
+
+✅ **Tekken 6** instalado y listo para jugar online.
+
+---
+### 6.3 Tekken Tag Tournament 2
+
+- Instrucciones específicas para instalar **Tekken Tag Tournament 2**.
+- Incluye información sobre paquetes, archivos de licencia y pasos especiales si los hay.
+
+> Completa cada subsección con los pasos detallados para el juego correspondiente.
 
 ---
 
