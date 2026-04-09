@@ -295,7 +295,7 @@ En Online Battle usar únicamente:
 ---
 ### 6.3 Tekken Tag Tournament 2
 
-⚠️ *Cuidado con la descarga de archivos maliciosos, asegúrate que el archivo sea Tekken Tag Tournament 2 y pese aproximadamente XX GB* ⚠️ 
+⚠️ *Cuidado con la descarga de archivos maliciosos, asegúrate que el archivo sea Tekken Tag Tournament 2 y pese aproximadamente 17 GB* ⚠️ 
 
 1. Tekken Tag Tournament 2 → **https://romspure.cc/download/tekken-tag-tournament-2-22601/1** 
 
