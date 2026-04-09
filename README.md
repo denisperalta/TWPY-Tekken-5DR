@@ -1,7 +1,6 @@
+# 🎮 Tekken en RPCS3 (Online) — Tekken Warriors PY
 
-# 🎮 Tekken 5 DR en RPCS3 (Online) — Tekken Warriors PY
-
-Guía completa para instalar **Tekken 5 Dark Resurrection** en RPCS3 y jugar online mediante **RPCN**.
+Guía completa para instalar juegos de **Tekken** en RPCS3 y jugar online mediante **RPCN**.
 
 ## ⚖️ Descargo de responsabilidad legal
 
@@ -18,8 +17,11 @@ Este tutorial es únicamente para fines educativos. La descarga e instalación d
 - [2. Estructura de carpetas](#2-estructura-de-carpetas)
 - [3. Instalación de RPCS3](#3-instalación-de-rpcs3)
 - [4. Instalación del Firmware](#4-instalación-del-firmware)
-- [5. Instalación del juego](#5-instalación-del-juego)
-- [6. Configuración Online (RPCN)](#6-configuración-online-rpcn)
+- [5. Configuración Online (RPCN)](#5-configuración-online-rpcn)
+- [6. Instalación del juego](#6-instalación-del-juego)
+  - [6.1 Tekken 5 DR](#tekken-5-dr)
+  - [6.2 Tekken 6](#tekken-6)
+  - [6.3 Tekken Tag Tournament 2](#tekken-tag-tournament-2)
 - [7. Primer inicio](#7-primer-inicio)
 - [8. Recomendaciones](#8-recomendaciones)
 
@@ -112,40 +114,7 @@ rpcs3.exe
 
 ---
 
-## 5. Instalación del juego
-
-1. En RPCS3, En el borde superior del emulador ir a:
-
-   ```
-   File > Install Packages
-   ```
-
-2. Extrae el archivo del juego:
-
-   * Haz clic derecho en el archivo del juego → **"Extraer todo"**
-
-3. Abre la carpeta `PS3` y verifica que contenga **2 archivos**:
-
-   * Archivo del juego
-   * Archivo de licencia
-
-4. Seleccionar ambos archivos y hacer click en **Abrir**
-
-5. Dejamos todos los ajustes en predeterminado, Click en:
-
-   ```
-   Install
-   ```
-
-6. Esperar a que termine la instalación
-
-   ![RPCS3 Install game](<images/Configuring Game.png>)
-
-✅ Ya puedes jugar **offline**. Continúa el guía para habilitar online.
-
----
-
-## 6. Configuración Online (RPCN)
+## 5. Configuración Online (RPCN)
 
 ### Crear cuenta RPCN
 
@@ -206,21 +175,62 @@ Guardar cambios con:
 
 ---
 
-## 7. Primer inicio del juego
+## 6. Instalación del juego
 
-1. Abre el juego
+### 6.1 Tekken 5 DR
 
-2. Acepta la descarga de datos adicionales con (**Yes**)
+1. En RPCS3, En el borde superior del emulador ir a:
+
+   ```
+   File > Install Packages
+   ```
+
+2. Extrae el archivo del juego:
+
+   * Haz clic derecho en el archivo del juego → **"Extraer todo"**
+
+3. Abre la carpeta `PS3` y verifica que contenga **2 archivos**:
+
+   * Archivo del juego
+   * Archivo de licencia
+
+4. Seleccionar ambos archivos y hacer click en **Abrir**
+
+5. Dejamos todos los ajustes en predeterminado, Click en:
+
+   ```
+   Install
+   ```
+
+6. Esperar a que termine la instalación
+
+   ![RPCS3 Install game](<images/Configuring Game.png>)
+
+7. Abre el juego
+
+8. Acepta la descarga de datos adicionales con (**Yes**)
 
    ![RPCS3 screenshot](<images/Tekken 5 onboarding.png>)
 
-3. Reinicia el emulador una vez que termine la descarga (usa `Alt + F4` o cierra la ventana).
+9. Reinicia el emulador una vez que termine la descarga (usa `Alt + F4` o cierra la ventana).
 
 Al abrir el juego nuevamente, no será más necesario descargar esos datos y el juego avanzará normalmente hasta el menú principal. Desde aquí ya pueden modificar los botones a su gusto en Settings o iniciar el online en Online Battle.
 
+### 6.2 Tekken 6
+
+- Instrucciones específicas para instalar **Tekken 6**.
+- Añade aquí los detalles de descarga, extracción, instalación de paquetes y cualquier diferencia frente a Tekken 5 DR.
+
+### 6.3 Tekken Tag Tournament 2
+
+- Instrucciones específicas para instalar **Tekken Tag Tournament 2**.
+- Incluye información sobre paquetes, archivos de licencia y pasos especiales si los hay.
+
+> Completa cada subsección con los pasos detallados para el juego correspondiente.
+
 ---
 
-## 8. Recomendaciones
+## 7. Recomendaciones
 
 ### ⚠️ Importante
 
