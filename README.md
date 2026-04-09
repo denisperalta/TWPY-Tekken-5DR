@@ -342,15 +342,15 @@ En Online Battle usar únicamente:
 
 11. En RPCS3, En el borde superior del emulador ir a:
 
-   ```
-   File > Install Packages
-   ```
+      ```
+      File > Install Packages
+      ```
 
 12. Dejamos todos los ajustes en predeterminado, Click en:
 
-   ```
-   Install
-   ```
+      ```
+      Install
+      ```
 
 13. Seleccionar **solamente los archivos de actualización** dentro de la carpeta extraída y hacer click en **Abrir**
 
