@@ -353,3 +353,9 @@ RPCS3 requiere una PC con rendimiento medio. Verifica los requisitos mínimos en
 ### ¿Dónde puedo reportar problemas?
 
 Puedes contactar a Rushador Cuidadoso de Tekken Warriors PY para soporte adicional.
+
+### ¿Por qué los colores en TTT2 se muestran mal?
+
+Para que los colores se muestren correctamente, en la configuración de GPU del emulador deben activar Write Color Buffers como en la imagen abajo:
+
+![RPCS3 Install game](<images/Color Buffer.png>)
