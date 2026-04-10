@@ -226,26 +226,27 @@ En Online Battle usar únicamente:
 
 > Espera unos segundos hasta que aparezca el botón amarillo "Download" y descárgalo.
 
-2. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
+2. Descargar la actualización del juego: **https://drive.proton.me/urls/KAXRA8S6R4#D3aYF8yFbsOG**
+
+3. Abre la carpeta extraída y verifica que contenga **1 archivo**:
+
+   * Archivo de la actualización
+
+4. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
 
    ```
    PS3/
    ├── RPCS3/
    ├── PS3UPDAT.PUP
-   └── Tekken 6/
+   ├── Tekken 6 Juego
+   └── Tekken 6 Actualización
    ```
 
-3. Extrae el archivo del juego:
+5. Extrae el archivo del juego:
 
    * Haz clic derecho en el archivo del juego → **"Extraer todo"**
 
-4. Copiar el archivo .iso recién descargado adentro de la carpeta del emulador RPCS3, en la carpeta `"games"`
-
-5. Descargar la actualización del juego: **https://drive.proton.me/urls/KAXRA8S6R4#D3aYF8yFbsOG**
-
-6. Abre la carpeta extraída y verifica que contenga **1 archivo**:
-
-   * Archivo de la actualización
+6. Copiar el archivo .iso recién descargado adentro de la carpeta del emulador RPCS3, en la carpeta `"games"`
 
 7. En RPCS3, En el borde superior del emulador ir a:
 
@@ -253,7 +254,7 @@ En Online Battle usar únicamente:
    File > Install Packages
    ```
 
-8. Seleccionar ambos archivos dentro de la carpeta extraída y hacer click en **Abrir**
+8. Extrae y selecciona el archivo dentro de la carpeta de actualización y hacer click en **Abrir**
 
 9. Dejamos todos los ajustes en predeterminado, Click en `Install`
 
@@ -272,52 +273,47 @@ En Online Battle usar únicamente:
 
 > Espera unos segundos hasta que aparezca el botón amarillo "Download" y descárgalo.
 
-2. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
+2. Descargar la actualización y DLC del juego: **https://drive.proton.me/urls/QJJH4P2PX8#nYDYCDrPlMfe**
+
+3. Añádelo a la carpeta PS3 creada en los pasos anteriores. La estructura debería verse así:
 
    ```
    PS3/
    ├── RPCS3/
    ├── PS3UPDAT.PUP
-   └── Tekken Tag Tournament 2/
+   ├── Tekken Tag Tournament 2 Juego
+   └── Tekken Tag Tournament 2 Actualización y DLC
    ```
 
-3. Extrae el archivo del juego:
+4. Extrae el archivo del juego:
 
    * Haz clic derecho en el archivo del juego → **"Extraer todo"**
 
-4. Copiar el archivo .iso recién descargado adentro de la carpeta del emulador RPCS3, en la carpeta `"games"`
+5. Copiar el archivo .iso recién descargado adentro de la carpeta del emulador RPCS3, en la carpeta `"games"`
 
-5. Descargar la actualización y DLC del juego: **https://drive.proton.me/urls/QJJH4P2PX8#nYDYCDrPlMfe**
-
-6. Abre la carpeta extraída y verifica que contenga **3 archivos**:
-
-   * Archivo de la actualización
-   * Archivo de los DLC
-   * Online Pass
-
-7. En RPCS3, En el borde superior del emulador ir a:
+6. En RPCS3, En el borde superior del emulador ir a:
 
    ```
    File > Install Packages
    ```
 
-8. Seleccionar **solamente los archivos DLC y Online Pass** dentro de la carpeta extraída y hacer click en **Abrir**
+7. Extraer y Seleccionar **solamente los archivos DLC y Online Pass** dentro de la carpeta de actualización y DLC. Hacer click en **Abrir**
 
-9. Dejamos todos los ajustes en predeterminado, Click en `Install`
+8. Dejamos todos los ajustes en predeterminado, Click en `Install`
 
-10. Iniciar el juego normalmente, terminar una batalla (Puede ser en Arcade Battle) y cerrar el juego
+9. Iniciar el juego normalmente, terminar una batalla (Puede ser en Arcade Battle) y cerrar el juego
 
-11. En RPCS3, En el borde superior del emulador ir a:
+10. En RPCS3, En el borde superior del emulador ir a:
 
       ```
       File > Install Packages
       ```
 
-12. Dejamos todos los ajustes en predeterminado, Click en `Install`
+11. Dejamos todos los ajustes en predeterminado, Click en `Install`
 
-13. Seleccionar **solamente los archivos de actualización** dentro de la carpeta extraída y hacer click en **Abrir**
+12. Seleccionar **solamente los archivos de actualización** dentro de la carpeta de actualización y DLC. Hacer click en **Abrir**
 
-14. Esperar a que termine la instalación
+13. Esperar a que termine la instalación
 
    ![RPCS3 Install game](<images/TTT2 Configuring Game.png>)
 
